@@ -1,0 +1,16 @@
+# Spotify auth token caches (NEVER commit these)
+.cache
+.cache-*
+.cache_*
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
